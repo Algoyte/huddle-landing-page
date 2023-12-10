@@ -6,7 +6,7 @@
 
 # Description:
 
-Huddle landing page with a single introductory section.
+The landing page is crafted with a compelling and responsive design using HTML and CSS, offering a visually engaging and user-friendly experience. The layout is carefully structured to capture attention, with a hero section featuring a captivating image or video background, accompanied by a concise headline and a call-to-action button.
 
 # Technologies:
 - HTML5
